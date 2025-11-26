@@ -7,6 +7,7 @@
 - [gemini](https://gemini.google.com/?hl=en-IN) by Google
 
 #### extra
+- [claude](https://claude.ai/)
 - [notebooklm](https://notebooklm.google/)
 
 
