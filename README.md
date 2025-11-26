@@ -14,3 +14,7 @@
 ## UI/UX
 - [Canva](https://www.canva.com/ai-assistant/)
 - [Figma](https://www.figma.com/ai/)
+
+
+## background music generation
+- [Suni.ai](https://suno.com/home)
