@@ -1,1 +1,2 @@
-# Notes
+- [LLM leadersboard](https://lmarena.ai/leaderboard)
+- [GPT Prompt Book](https://lpavlovsky.notion.site/1cfe6673617d4a648fe39f50bbc81bb3?v=60233c4b88624470bc1b993d0eb4bf14)
