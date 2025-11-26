@@ -6,3 +6,10 @@
 - [perplexity](https://www.perplexity.ai/) by Perplexity AI, Inc
 - [gemini](https://gemini.google.com/?hl=en-IN) by Google
 
+#### extra
+- [notebooklm](https://notebooklm.google/)
+
+
+## UI/UX
+- [Canva](https://www.canva.com/ai-assistant/)
+- [Figma](https://www.figma.com/ai/)
