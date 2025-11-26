@@ -9,7 +9,7 @@
 #### extra
 - [claude](https://claude.ai/)
 - [notebooklm](https://notebooklm.google/)
-
+- [Google aistudio](https://aistudio.google.com/)
 
 ## UI/UX
 - [Canva](https://www.canva.com/ai-assistant/)
