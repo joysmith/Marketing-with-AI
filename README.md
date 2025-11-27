@@ -18,3 +18,16 @@
 
 ## background music generation
 - [Suni.ai](https://suno.com/home)
+
+
+### Marketing prompt
+
+1. [role based](https://lpavlovsky.notion.site/Basic-Universal-Prompt-Template-73b7b3c8d8e34c9fa173cf7317421203)
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
