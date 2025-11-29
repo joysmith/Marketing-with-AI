@@ -26,8 +26,12 @@
 1. [N Shot Prompt Engineering Technique](https://lpavlovsky.notion.site/N-Shot-Prompt-Engineering-Technique-d7b8a0c04f7d48c897dafea0b47ae6ea)
 1. [Chain of thought template](https://lpavlovsky.notion.site/Chain-of-Thought-Prompt-Template-3aac6c784157467fb1f156207da15e33?pvs=4)
 1. [Feedback-Based Prompting Technique](https://lpavlovsky.notion.site/Feedback-Based-Prompting-Technique-55f6149077b94ea59a339bbb9dd15a5e)
+1. [Self-Ask/Ask-Before-Answer Formula](https://lpavlovsky.notion.site/Self-Ask-Ask-Before-Answer-Formula-8e73bd119309408b9950e469aeed592c)
 1.
 1.
 1.
 1.
-1.
+
+
+### Inspiration
+1. [Copywriting inspiration](https://marketingexamples.com/inspiration)
