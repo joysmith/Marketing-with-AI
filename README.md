@@ -23,9 +23,9 @@
 ### Marketing prompt
 
 1. [Basic universal template for marketing](https://lpavlovsky.notion.site/Basic-Universal-Prompt-Template-73b7b3c8d8e34c9fa173cf7317421203)
-1.
-1.
-1.
+1. [N Shot Prompt Engineering Technique](https://lpavlovsky.notion.site/N-Shot-Prompt-Engineering-Technique-d7b8a0c04f7d48c897dafea0b47ae6ea)
+1. [Chain of thought template](https://lpavlovsky.notion.site/Chain-of-Thought-Prompt-Template-3aac6c784157467fb1f156207da15e33?pvs=4)
+1. []()
 1.
 1.
 1.
